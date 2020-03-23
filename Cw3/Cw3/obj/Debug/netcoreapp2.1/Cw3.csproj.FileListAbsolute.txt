@@ -1,0 +1,14 @@
+E:\c++\Cw3\Cw3\bin\Debug\netcoreapp2.1\Cw3.deps.json
+E:\c++\Cw3\Cw3\bin\Debug\netcoreapp2.1\Cw3.runtimeconfig.json
+E:\c++\Cw3\Cw3\bin\Debug\netcoreapp2.1\Cw3.runtimeconfig.dev.json
+E:\c++\Cw3\Cw3\bin\Debug\netcoreapp2.1\Cw3.dll
+E:\c++\Cw3\Cw3\obj\Debug\netcoreapp2.1\Cw3.csprojAssemblyReference.cache
+E:\c++\Cw3\Cw3\obj\Debug\netcoreapp2.1\Cw3.csproj.CoreCompileInputs.cache
+E:\c++\Cw3\Cw3\obj\Debug\netcoreapp2.1\Cw3.RazorAssemblyInfo.cache
+E:\c++\Cw3\Cw3\obj\Debug\netcoreapp2.1\Cw3.RazorAssemblyInfo.cs
+E:\c++\Cw3\Cw3\obj\Debug\netcoreapp2.1\Cw3.AssemblyInfoInputs.cache
+E:\c++\Cw3\Cw3\obj\Debug\netcoreapp2.1\Cw3.AssemblyInfo.cs
+E:\c++\Cw3\Cw3\obj\Debug\netcoreapp2.1\Cw3.RazorTargetAssemblyInfo.cache
+E:\c++\Cw3\Cw3\bin\Debug\netcoreapp2.1\Cw3.pdb
+E:\c++\Cw3\Cw3\obj\Debug\netcoreapp2.1\Cw3.dll
+E:\c++\Cw3\Cw3\obj\Debug\netcoreapp2.1\Cw3.pdb
